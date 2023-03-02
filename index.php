@@ -1,3 +1,3 @@
 <?php
-	phpinfo();
+	echo "esta es una prueba del versionador";
 ?>
